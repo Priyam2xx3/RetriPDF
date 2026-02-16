@@ -66,7 +66,8 @@ This project is configured for direct deployment to Hugging Face Spaces.
 
 ## 📸 Screenshots
 
-*(Add a screenshot of your app here)*
+<img width="1917" height="827" alt="image" src="https://github.com/user-attachments/assets/a25b1066-cdd7-4576-a7b4-d396cba5d999" />
+
 
 ---
 
